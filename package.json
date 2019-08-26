@@ -1,7 +1,7 @@
 {
-  "name": "vanillajs-webpack-starter",
+  "name": "zoomcar-cities-exercise",
   "version": "1.0.0",
-  "description": "Webpack enabled project broilerplate - Webpack, webpack-dev-server, scss, babel, sanitize.css, lodash, eslint, postcss",
+  "description": "Zoomcar :: Cities exercise using plain js + Webpack, webpack-dev-server, scss, babel, sanitize.css, lodash, eslint, postcss",
   "private": true,
   "scripts": {
     "watch": "webpack --watch",

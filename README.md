@@ -1,4 +1,4 @@
-## Vanilla JS - Webpack enabled project starter
+## Zoomcar cities exercise
 
 - No frameworks
 - Webpack
